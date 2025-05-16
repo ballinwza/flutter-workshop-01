@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Watch",
+    "imgUrl": "https://media.studio7thailand.com/157495/Apple_Watch_Series_10_42mm_GPS_Jet_Black_Aluminum_Sport_Band_Black_1.png",
+    "hexColor": "#EF9A9A",
+    "price": 40,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi. Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi. Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 2,
+    "title": "Nike Shoes ssssssssssssss",
+    "imgUrl": "https://images.squarespace-cdn.com/content/v1/5ed6e10fb011a123217ba702/1727139534806-K219WNSVFLFTG6QOO2I3/unsplash-image-164_6wVEHfI.jpg",
+    "hexColor": "#EF9A9A",
+    "price": 430,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 3,
+    "title": "TV",
+    "imgUrl": "https://media.istockphoto.com/id/1395191574/photo/black-led-tv-television-screen-blank-isolated.jpg?s=612x612&w=0&k=20&c=ps14JZJh0ebkINcbQyHFsR1J5EC7ozkj_WO7Fh_9IOI=",
+    "hexColor": "#EF9A9A",
+    "price": 330,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 4,
+    "title": "Airpods",
+    "imgUrl": "",
+    "hexColor": "#EF9A9A",
+    "price": 333,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 5,
+    "title": "Watch",
+    "imgUrl": "",
+    "hexColor": "#EF9A9A",
+    "price": 40,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 6,
+    "title": "Nike Shoes",
+    "imgUrl": "",
+    "hexColor": "#EF9A9A",
+    "price": 430,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 7,
+    "title": "TV",
+    "imgUrl": "",
+    "hexColor": "#EF9A9A",
+    "price": 330,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  },
+  {
+    "id": 8,
+    "title": "Airpods",
+    "imgUrl": "",
+    "hexColor": "#EF9A9A",
+    "price": 333,
+    "rating": 4.5,
+    "reviewer": 20,
+    "description": "Culpa aliquam consequuntur veritatis at consequuntur praesentium beatae temporibus nobis. Velit dolorem facilis neque autem. Itaque voluptatem expedita qui eveniet id veritatis eaque. Blanditiis quia placeat nemo. Nobis laudantium nesciunt perspiciatis sit eligendi.",
+    "size": [8, 10, 38]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "tradon",
+    "age": 20,
+    "hexColor": "#EF9A9A"
+  },
+  {
+    "name": "Ball",
+    "age": 20,
+    "hexColor": "#fcd056"
+  },
+  {
+    "name": "Eden",
+    "age": 20,
+    "hexColor": "#33e85a"
+  },
+  {
+    "name": "Nova",
+    "age": 20,
+    "hexColor": "#5863fc"
+  }
+]
